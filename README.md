@@ -1,28 +1,5 @@
 # Finance
 
-A stock-trading website where users can "buy" and "sell" stocks.
+A stock-trading website where users can sign up, view live stock prices, buy and sell stocks, and view their history of transactions.
 
-![index.html](index.png)
-
-
-## Getting started
-
-### Virtual Environment
-
-For better control over installed packages on a local machine.
-
-```
-$ pip install virtualenv
-$ virtualenv myenv
-$ source myenv/bin/activate
-```
-
-
-### Install requirements
-
-`$ pip install -r requirements.txt`
-
-
-### Running
-
-`$ python application.py`
+![screenshot](screenshot.png)
